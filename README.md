@@ -17,7 +17,7 @@ Utilizo modelos de linguagem e ferramentas de IA, como o **ChatGPT**, para otimi
 
 ---### 📊 Estatísticas do GitHub<p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=felipealexandrino-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealexandrinoprog&layout=compact&theme=tokyonight"/></p>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealexandrino-prog&layout=compact&theme=tokyonight"/></p>
 
 ---### 📫 Vamos nos conectar?- **LinkedIn:** Felipe Alexandrino Dev 
 https://www.linkedin.com/in/felipe-alexandrino-b1b514247/
